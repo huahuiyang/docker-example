@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+aFROM ubuntu:latest
 comment 2
 comment 1
 RUN echo 1 > /tmp/test
