@@ -1,4 +1,4 @@
 FROM ubuntu:latest
-#comment
+#comment 2
 RUN echo 1 > /tmp/test
 RUN echo 2
